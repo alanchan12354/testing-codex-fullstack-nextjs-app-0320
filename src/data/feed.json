@@ -1,0 +1,94 @@
+{
+  "stories": [
+    {
+      "id": "story-1",
+      "username": "pixel.mia",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+      "accent": "from-pink-500 to-orange-400"
+    },
+    {
+      "id": "story-2",
+      "username": "roamwithleo",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+      "accent": "from-fuchsia-500 to-amber-300"
+    },
+    {
+      "id": "story-3",
+      "username": "studio.ava",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&q=80",
+      "accent": "from-violet-500 to-pink-400"
+    },
+    {
+      "id": "story-4",
+      "username": "nightshift.noah",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&q=80",
+      "accent": "from-blue-500 to-cyan-300"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "username": "pixel.mia",
+      "location": "Brooklyn, NY",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80",
+      "caption": "Late-night product jam with gradients, glassmorphism, and espresso shots.",
+      "likes": 1842,
+      "createdAt": "2 HOURS AGO",
+      "comments": [
+        {
+          "id": "comment-1",
+          "username": "ui.sam",
+          "text": "This lighting is perfect 🔥"
+        },
+        {
+          "id": "comment-2",
+          "username": "frontend.liv",
+          "text": "Need the behind-the-scenes reel next."
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "username": "roamwithleo",
+      "location": "Lisbon, Portugal",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "caption": "Golden hour from the tram line. Saving this skyline forever.",
+      "likes": 923,
+      "createdAt": "5 HOURS AGO",
+      "comments": [
+        {
+          "id": "comment-3",
+          "username": "maps.and.matcha",
+          "text": "Lisbon always wins."
+        },
+        {
+          "id": "comment-4",
+          "username": "cityframes",
+          "text": "That orange glow is unreal."
+        }
+      ]
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "suggest-1",
+      "username": "devon.design",
+      "avatar": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=200&q=80",
+      "reason": "Follows pixel.mia"
+    },
+    {
+      "id": "suggest-2",
+      "username": "sprint.coffee",
+      "avatar": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?auto=format&fit=crop&w=200&q=80",
+      "reason": "New to Instagram"
+    },
+    {
+      "id": "suggest-3",
+      "username": "ana.codes",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "reason": "Suggested for you"
+    }
+  ]
+}
